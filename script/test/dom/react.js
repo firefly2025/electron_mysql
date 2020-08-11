@@ -19,7 +19,7 @@ function bindModelMap(obj, map) {
 var data = bindModelMap(model, map);
 
 
-model.a=100;
-
+model.a = 100;
+sss
 
 console.log(data.dom);
